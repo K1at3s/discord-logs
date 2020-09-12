@@ -1,6 +1,0 @@
-handlers
-index.ts
-tsconfig.json
-tslint.json
-.prettierrc
-.env
